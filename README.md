@@ -26,14 +26,13 @@ Bu kapsamda iş sürecinin şirketler ve organizasyonlar bakımından birçok fa
 BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. BPMN, iş süreçlerini modelleme dili dört kategoriye ayrılmaktadır: 
 
 ### Akış Elemanları (Flow Elements)
-Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir. Üç çeşit akış elemanı bulunmaktadır: *Olay* (Event), *Aktivite* (Activity) ve *Geçit* (Gateaways).
+Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir. Üç çeşit akış elemanı bulunmaktadır: *Olay* (Event), *Aktivite* (Activity) ve *Geçit* (Gateaways). 
 
 **Olaylar (Events)** 
 - İş sürecindeki olayları temsil eder. Örneğin, başlangıç ve bitiş noktaları. 
 - Olaylar; genel anlamda bir süreci başlatan, sürdüren ve tamamlayan tetikleyicilerdir. Olay türleri arasında mesaj türleri, hata uyarıları, sinyal, iptaller gibi birçok bağlantı yer alır. Olay tiplerine göre diğer sembolleri içeren dairelerle gösterilmektedir.
 
 ![9fedf54f-ccf1-469e-acd6-546675816a73](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/14b62d02-c9ca-4bc9-94da-b91a69dc78b0)
-
 
 **Aktiviteler (Activity)**
 - İş sürecindeki etkileşimleri temsil eder. Örneğin, görev ve yapılan işlemler.
@@ -116,6 +115,16 @@ BPMN alt model türleri üçe ayrılır:
 
 **Konuşma Diyagramı** 
 - İşbirliği diyagramı basitleştirilmiş versiyonudur. İş süreci boyunca bir grup ilişkili mesaj alışverişini belirtmektedir. Alt konuşmalarla genişletilebilmektedir. 
+
+İş süreçlerinde kullanılan diyagram türleri dışında iki farklı diyagram sınıflandırma türü de bulunmaktadır: 
+
+**Basit Diyagramlar**
+- Bu diyagram türü, temel araç setlerini kullanarak iş sürecinin anlaşılmasını kolaylaştırmaktadır. Temel araçlar; ana katılımcıların görevleri, geçiş noktalarını ve süreli etkinliklerin oluşturulmasında kullanılan zamanlayıcı unsurlarını içermektedir. Karmaşık diyagram modellerini de basitçe anlaşılması kolaylaşmaktadır. 
+
+**Karmaşık Diyagramlar**
+- Karmaşık diyagram türü, BPMN standardının bütün araç setlerini kullanmaktadır. BPMN standardının sağladığı araçların kullanılmasının avantajı, ana katılımcıların her iş durumunu tanımlayabilmesidir. Karmaşık diyagram türünde, katılımcıların BPMN araçlarına dair bilgisinin olması ve nasıl çalıştığını bilmesi ve araçların birbiriyle nasıl etkileşimde bulunduğunu detaylı bir şekilde bilmesi gerekmektedir. 
+
+
 
 
 
