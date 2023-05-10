@@ -90,7 +90,22 @@ Artifacts, iş sürecinde geliştiricilerin ayrıntılı olarak verdiği ek bilg
 **Açıklama (Annotation)** 
 - Diyagramda belli kısımlarda daha fazla açıklama sağlar. 
 
+## BPMN Diyagramı İçerisinde Yer Alan Alt Modeller 
+BPMN, karmaşık iş süreçlerinin baştan sonuna kadar nasıl bir vizyonda ilerlediğine dair net bir içgörüye sahip olmanızı sağlar. İş süreçlerinde, performansı ve verimliliğinizi arttırmanıza ve süreçleri performansa dayalı olarak kolaylaştırmanıza yardımcı olur. Diyagramda yer alan ana katılımcıları gözlemleyebileceğiniz, hataları minimuma indireceğiniz süreçte inovasyona olanak sağlar. 
 
+BPMN diyagramlarında teknik olan ya da teknik olmayan çeşitli hedefler ve farklı ana katılımcı kitleleriyle iletişim kurmak gerekir. BPMN alt modelleri, farklı katılımcıların diyagramın bölümlerini kolayca ayırt etmesini ve katılımcıların kendilerine uygun bölümleri bulmasını sağlamaktadır. 
+
+BPMN alt model türleri üçe ayrılır: 
+
+**Özel İş Süreçleri** 
+- Özel iş süreçleri, belirli bir kuruluşa özel olup havuzları veya kurumsal sınırlar dışına çıkamaz. 
+
+**Soyut İş Süreçleri** 
+- Soyut İş Süreçleri, özel/iç süreç ve farklı katılımcı veya süreç arasında gerçekleşmektedir. Soyut İş Süreçleri, dış dünyaya özel süreçle etkileşim için gereken mesajların sırasını belirtmektedir. 
+
+Özel iş süreçleri. Bunlar, belirli bir kuruluşa özeldir ve havuzları veya kurumsal sınırları geçmez.
+Soyut iş süreçleri. Bunlar, özel/iç süreç ve başka bir katılımcı veya süreç arasında gerçekleşir. Soyut süreç, dış dünyaya özel süreçle etkileşim için gereken mesajların sırasını gösterir. Özel/iç süreci kendisi göstermez.
+İşbirliği iş süreçleri. Bunlar, iki veya daha fazla iş birimi arasındaki etkileşimleri gösterir.
 
 
 
