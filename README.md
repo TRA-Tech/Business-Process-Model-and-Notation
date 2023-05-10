@@ -1,5 +1,5 @@
 # Business Process Model and Notation (BPMN)
-İş Süreç Modelleme Notasyonu, organizasyonların iş süreçlerini yönetmek ve modellemek amacıyla tasarlanan iş akış şemasıdır. Şirketlerde bulunan birçok birimin faydalanabileceği bir iş sürecinin başlangıç aşamasından son aşamasına kadar belirlendiği görsel modelleme dili kullanılmış akış şemalardır. BPMN, bir işlemi tamamlamak için gerekli faaliyetlerin ve bilgi akışının şema haline getirerek detaylandırılmasını sağlar. 
+*İş Süreç Modelleme Notasyonu*, organizasyonların iş süreçlerini yönetmek ve modellemek amacıyla tasarlanan iş akış şemasıdır. Şirketlerde bulunan birçok birimin faydalanabileceği bir iş sürecinin başlangıç aşamasından son aşamasına kadar belirlendiği görsel modelleme dili kullanılmış akış şemalardır. BPMN, bir işlemi tamamlamak için gerekli faaliyetlerin ve bilgi akışının şema haline getirerek detaylandırılmasını sağlar. 
 
 ![cfe17b36-8a3a-467a-8260-c44b4bf89b6e](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/04a2a71e-ebfc-49fb-af2a-cd3a8e9421e6)
 
@@ -15,13 +15,13 @@ Paydaşların da dahil edildiği bu süreçte, tespit edilen sorunların etkili 
 
 Bu kapsamda iş sürecinin şirketler ve organizasyonlar bakımından birçok faydası bulunmaktadır: 
 
-•	OMG (The Object Management Group) konsorsiyumu tarafından geliştirilen bir endüstri standardı,
-•	İş Süreçleri Diyagramları sayesinde prosedürleri kolayca tanımlama ve anlama olanağı,
-•	İş paydaşlarının kolayca anlayabileceği standart bir şema sağlama,
-•	İş süreci tasarımı ile uygulama arasında sık sık görülen iletişim boşluğunu kapama,
-•	İş sürecinde meydana gelecek potansiyel karmaşıklıkları betimlemeye yetecek kadar kol ve güçlü,
-•	Kâr amacı gütmeyen bir kuruluş tarafından desteklendiği ve geliştirildiği için geniş araç desteğine sahiptir. 
-
+- OMG (The Object Management Group) konsorsiyumu tarafından geliştirilen bir endüstri standardı,
+- İş Süreçleri Diyagramları sayesinde prosedürleri kolayca tanımlama ve anlama olanağı,
+- İş paydaşlarının kolayca anlayabileceği standart bir şema sağlama,
+- İş süreci tasarımı ile uygulama arasında sık sık görülen iletişim boşluğunu kapama,
+- İş sürecinde meydana gelecek potansiyel karmaşıklıkları betimlemeye yetecek kadar kol ve güçlü,
+- Kâr amacı gütmeyen bir kuruluş tarafından desteklendiği ve geliştirildiği için geniş araç desteğine sahiptir. 
+ 
 ## Business Process Model and Notation Nasıl Çalışır? 
 BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. BPMN, iş süreçlerini modelleme dili dört kategoriye ayrılmaktadır: 
 
