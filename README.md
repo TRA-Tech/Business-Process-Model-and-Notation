@@ -103,9 +103,20 @@ BPMN alt model türleri üçe ayrılır:
 **Soyut İş Süreçleri** 
 - Soyut İş Süreçleri, özel/iç süreç ve farklı katılımcı veya süreç arasında gerçekleşmektedir. Soyut İş Süreçleri, dış dünyaya özel süreçle etkileşim için gereken mesajların sırasını belirtmektedir. 
 
-Özel iş süreçleri. Bunlar, belirli bir kuruluşa özeldir ve havuzları veya kurumsal sınırları geçmez.
-Soyut iş süreçleri. Bunlar, özel/iç süreç ve başka bir katılımcı veya süreç arasında gerçekleşir. Soyut süreç, dış dünyaya özel süreçle etkileşim için gereken mesajların sırasını gösterir. Özel/iç süreci kendisi göstermez.
-İşbirliği iş süreçleri. Bunlar, iki veya daha fazla iş birimi arasındaki etkileşimleri gösterir.
+**İşbirliği İş Süreçleri**
+- İki veya daha fazla iş birimi arasındaki etkileşimleri belirtmektedir. 
+
+## BPMN'de Bulunan Diyagram Türleri 
+
+**Koregrafi Diyagramı** 
+- İki veya daha fazla katılımcı arasındaki etkileşimleri ifade etmektedir. Alt koreografilerle genişletilmektedir. 
+
+**İşbirliği Diyagramı** 
+- Birden fazla havu kullanılarak iki veya daha fazla süreç arasındaki etkileşimleri göstermektedir. İşbirliği diyagramında havuzlar, süreçler ve koregrafi kombinasyonları herhangi biri kullanılmaktadır. 
+
+**Konuşma Diyagramı** 
+- İşbirliği diyagramı basitleştirilmiş versiyonudur. İş süreci boyunca bir grup ilişkili mesaj alışverişini belirtmektedir. Alt konuşmalarla genişletilebilmektedir. 
+
 
 
 
