@@ -5,7 +5,7 @@
 
 
 BPMN, iş akış sürecinin her bir aşamasının adım adım detaylandırılmasını sağlayarak belli bir sıralamayla ilerlenmesini sağlar. BPMN’ın amacı; rekabet avantajlarını arttırmak, iş akışında yeni ya da beklenmedik durumları gözlemleyebilmek için modeller oluşturmaktadır. 
-BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) tarafından yayınlanmıştır. 2005 yılından BPMI ve BPMN organizasyonlarının birleşmesi ardından süreçler OMG (The Object Management Group) tarafından yönetilmeye başlamıştır. 2006 yılında OMG, BPMN Spesifikasyonu belgesi yayınladı. 2010 yılında BPMN 2.0 sürümü geliştirildi ardından 2013 yılında Aralık ayında yeni bir spesifikasyon sürüm yayınlandı. ISO tarafından resmi olarak yayınlanan BPMN 2.0.2 en son sürümüdür: ISO/IEC 19510
+BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) tarafından yayınlanmıştır. 2005 yılından BPMI ve BPMN organizasyonlarının birleşmesi ardından süreçler OMG (The Object Management Group) tarafından yönetilmeye başlamıştır. 2006 yılında OMG, BPMN Spesifikasyonu belgesi yayınladı. 2010 yılında BPMN 2.0 sürümü geliştirildi ardından 2013 yılında Aralık ayında yeni bir spesifikasyon sürüm yayınlandı. ISO tarafından resmi olarak yayınlanan BPMN 2.0.2 en son sürümüdür: *ISO/IEC 19510*
 
 ## Business Process Model and Notation (BPMN) Faydaları
 BPMN, İş Süreç Modelleme Notasyonu, iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. Bu sayede, BPMN ile iş sahipleri, iş analistleri, geliştiriciler gibi şirketin birçok biriminin yararlanacağı bir modelleme ortaya çıkar. 
@@ -33,6 +33,7 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 - Olaylar; genel anlamda bir süreci başlatan, sürdüren ve tamamlayan tetikleyicilerdir. Olay türleri arasında mesaj türleri, hata uyarıları, sinyal, iptaller gibi birçok bağlantı yer alır. Olay tiplerine göre diğer sembolleri içeren dairelerle gösterilmektedir.
 
 ![9fedf54f-ccf1-469e-acd6-546675816a73](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/14b62d02-c9ca-4bc9-94da-b91a69dc78b0)
+
 
 **Aktiviteler (Activity)**
 - İş sürecindeki etkileşimleri temsil eder. Örneğin, görev ve yapılan işlemler.
