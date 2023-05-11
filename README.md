@@ -21,6 +21,8 @@ Bu kapsamda iş sürecinin şirketler ve organizasyonlar bakımından birçok fa
 - İş süreci tasarımı ile uygulama arasında sık sık görülen iletişim boşluğunu kapama,
 - İş sürecinde meydana gelecek potansiyel karmaşıklıkları betimlemeye yetecek kadar kol ve güçlü,
 - Kâr amacı gütmeyen bir kuruluş tarafından desteklendiği ve geliştirildiği için geniş araç desteğine sahiptir. 
+
+BPMN, işletmelere iş süreçlerini anlama, belgeleme, iletişim kurma ve analiz etme konularında önemli avantajlar sağlamaktadır. 
  
 ## Business Process Model and Notation Nasıl Çalışır? 
 BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. BPMN, iş süreçlerini modelleme dili dört kategoriye ayrılmaktadır: 
