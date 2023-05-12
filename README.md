@@ -178,11 +178,17 @@ BPMN alt model türleri üçe ayrılır:
 **Karmaşık Diyagramlar**
 - Karmaşık diyagram türü, BPMN standardının bütün araç setlerini kullanmaktadır. BPMN standardının sağladığı araçların kullanılmasının avantajı, ana katılımcıların her iş durumunu tanımlayabilmesidir. Karmaşık diyagram türünde, katılımcıların BPMN araçlarına dair bilgisinin olması ve nasıl çalıştığını bilmesi ve araçların birbiriyle nasıl etkileşimde bulunduğunu detaylı bir şekilde bilmesi gerekmektedir. 
 
+## BPMN'i Deneyimleyin! 
+BPMN ile iş süreçlerinizi daha etkin yönetmek için aşağıdaki siteleri ziyaret edebilirsiniz. 
 
+- **LUCIDCHART**
+https://www.lucidchart.com/pages/bpmn
 
+- **CAMUNDA** 
+https://camunda.com/bpmn/
 
-
-
+- **BPMN IO**
+https://bpmn.io/
 
 
 
