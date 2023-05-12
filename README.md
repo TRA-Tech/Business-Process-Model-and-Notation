@@ -8,6 +8,7 @@ BPMN, iş akış sürecinin her bir aşamasının adım adım detaylandırılmas
 BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) tarafından yayınlanmıştır. 2005 yılından BPMI ve BPMN organizasyonlarının birleşmesi ardından süreçler OMG (The Object Management Group) tarafından yönetilmeye başlamıştır. 2006 yılında OMG, BPMN Spesifikasyonu belgesi yayınladı. 2010 yılında BPMN 2.0 sürümü geliştirildi ardından 2013 yılında Aralık ayında yeni bir spesifikasyon sürüm yayınlandı. ISO tarafından resmi olarak yayınlanan BPMN 2.0.2 en son sürümüdür: *ISO/IEC 19510*
 
 ## BPMN'nin Amacı 
+BPMN'nin temel çalışma prensipi, iş süreçlerinin başlangıcından bitiş noktasına kadar olan süreci tanımlamaktır. İş süreçleri boyunca iş analistlerinin, teknik konuların geliştirmelerini yapacak geliştiricilerin ve organizasyon içerisinde yer alan yönetim ve diğer birimlerin iş süreçlerini kolayca anlayabileceği şekilde görsel olarak modellemesini sağlamaktır. 
 
 
 ## Business Process Model and Notation (BPMN) Faydaları
