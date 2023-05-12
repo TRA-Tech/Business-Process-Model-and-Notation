@@ -66,10 +66,12 @@ Bağlantı nesneleri, akış elemanlarını birbirine bağlayan mesaj akışı, 
 - Bir nesne veya metnin bir olaya, aktiviteye veya ağ geçidine bağlanmasını sağlar. Kesik çizgi ile gösterilmektedir. 
 
 ### Kulvarlar (Swimlanes)
-Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve Şerit elementlerini kapsamaktadır. 
+Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve Şerit elementlerini kapsamaktadır. Dikdörtgen olarak gösterilmektedir. Swimlane'lar yatay ve dikey olarak iki türlü gösterimi bulunmaktadır. Anlam olarak aynıdır, temsil edilmeleri farklıdır. Yatay swimlane süreci, soldan sağa doğru akmaktadır. Dikey swimlane süreci, yukarıdan aşağıya doğru akmaktadır. 
 
 **Havuz (Pool)**
 - İş sürecindeki ana katılımcıları (rolleri ve departmanları) temsil eder. 
+- Havuzların içerisinde kendi flow elementleri bulunmaktadır. Havuz flow elementleri, iş süreci boyunca havuzun yapması gereken işleri ifade etmektedir. Flow elementleri bulunmayan havuz türü de yer almaktadır. Bu tür havuz türüne *blackbox pool* denmektedir. Bu tür havuzlar, iş sürecinin dışındaki varlıkları temsil etmektedir. 
+
 ![lyNXJ](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/ea8334c8-3bc8-4fbc-9310-bf74d22e5efd)
 
 **Şerit (Lane)**
