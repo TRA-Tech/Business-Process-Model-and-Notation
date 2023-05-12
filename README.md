@@ -108,7 +108,7 @@ Artifacts, iş sürecinde geliştiricilerin ayrıntılı olarak verdiği ek bilg
 - Bir aktivite ve akış sürecinde hangi verilerin gerektiğini ifade eder. 
 
 **Grup (Group)** 
-- Aktivitelerin mantıksal olarak gruplandırılmasını belirtir, ancak akışa hiçbir müdahalesi yoktur. 
+- Aktivitelerin mantıksal olarak gruplandırılmasını belirtir, ancak akışa hiçbir müdahalesi yoktur. Kesikli çizgi çerçeveli dikdörtgen şeklinde gösterilmektedir. 
 
 **Açıklama (Annotation)** 
 - Diyagramda belli kısımlarda daha fazla açıklama sağlar. Akışı etkilemez, ancak akış içindeki nesneler hakkında detaylar sağlar.
@@ -119,7 +119,6 @@ BPMN, karmaşık iş süreçlerinin baştan sonuna kadar nasıl bir vizyonda ile
 BPMN diyagramlarında teknik olan ya da teknik olmayan çeşitli hedefler ve farklı ana katılımcı kitleleriyle iletişim kurmak gerekir. BPMN alt modelleri, farklı katılımcıların diyagramın bölümlerini kolayca ayırt etmesini ve katılımcıların kendilerine uygun bölümleri bulmasını sağlamaktadır. 
 
 ![bpmn-js](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/4bec3bdd-f538-4195-82cb-5315238a7a2e)
-
 
 BPMN alt model türleri üçe ayrılır: 
 
