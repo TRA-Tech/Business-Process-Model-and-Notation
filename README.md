@@ -76,15 +76,14 @@ Bağlantı nesneleri, akış elemanlarını birbirine bağlayan mesaj akışı, 
 **Mesaj Akışları (Message Flows)**
 - Farklı havuzlar arasındaki mesajların nasıl taşındığını temsil eder.
 - Bölümler ve departmanlar arasındaki mesaj akışını belirtirler. Olaylara veya aktivitelere bağlanmamalıdır. Ucu daire kesik çizgili ok ile gösterilmektedir.
-
-
-Mesaj Akışları
-BPMN'de, havuzlar arasındaki iletişim mesaj kullanılarak gerçekleştirilir. Mesaj akışı, havuzlar veya havuzlar arasında bulunan akış öğeleri arasında mesaj akışını göstermek için kullanılır. Mesaj akışı, noktalı bir çizgi şeklinde ve ok başlığıyla gösterilir. Havuzlar arasında akışı olan bazı örnek mesajlar: faks, telefon, e-posta, mektup, bildirim, komut.
-Sadece aynı havuzdaki akış öğelerini birbirine bağlamak için sıra akışını kullanabilirsiniz: ya aynı havuz/sıra içindeki öğeler arasında ya da aynı havuzdaki farklı sıralar arasında. Öğeleri havuzlar arasında bağlamak isterseniz, sıra akışını değil, mesaj akışını kullanmanız gerekir.
+- Havuzlar arasında mesaj akışı sağlayan örnek mesajlar: faks, telefon, e-posta, mektup, bildirim, komut.
+- Öğeleri havuzlar arasında bağlamak isterseniz, sıra akışını değil, mesaj akışını kullanmanız gerekir.
 
 **İlişkilendirmeler (Associations)**
 - Bir akış nesnesi ile bir veri nesnesi arasındaki bağlantıyı temsil eder. 
 - Bir nesne veya metnin bir olaya, aktiviteye veya ağ geçidine bağlanmasını sağlar. Kesik çizgi ile gösterilmektedir. 
+- İş süreçlerinde; veri, veri nesneleri, veri girişleri, veri çıktıları ve veri depoları gibi çeşitli 'veri' nesne türleriyle modellenebilir.
+- İş süreçlerinde verilerin durumlarını yönetmek için örnekleme, tamamlama ve silme gibi tanımlanmış akışlar vardır. 
 
 ### Kulvarlar (Swimlanes)
 Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve Şerit elementlerini kapsamaktadır. Dikdörtgen olarak gösterilmektedir. Swimlane'lar yatay ve dikey olarak iki türlü gösterimi bulunmaktadır. Anlam olarak aynıdır, temsil edilmeleri farklıdır. Yatay swimlane süreci, soldan sağa doğru akmaktadır. Dikey swimlane süreci, yukarıdan aşağıya doğru akmaktadır. 
@@ -112,7 +111,7 @@ Artifacts, iş sürecinde geliştiricilerin ayrıntılı olarak verdiği ek bilg
 - Aktivitelerin mantıksal olarak gruplandırılmasını belirtir, ancak akışa hiçbir müdahalesi yoktur. 
 
 **Açıklama (Annotation)** 
-- Diyagramda belli kısımlarda daha fazla açıklama sağlar. 
+- Diyagramda belli kısımlarda daha fazla açıklama sağlar. Akışı etkilemez, ancak akış içindeki nesneler hakkında detaylar sağlar.
 
 ## BPMN Diyagramı İçerisinde Yer Alan Alt Modeller 
 BPMN, karmaşık iş süreçlerinin baştan sonuna kadar nasıl bir vizyonda ilerlediğine dair net bir içgörüye sahip olmanızı sağlar. İş süreçlerinde, performansı ve verimliliğinizi arttırmanıza ve süreçleri performansa dayalı olarak kolaylaştırmanıza yardımcı olur. Diyagramda yer alan ana katılımcıları gözlemleyebileceğiniz, hataları minimuma indireceğiniz süreçte inovasyona olanak sağlar. 
