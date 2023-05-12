@@ -10,6 +10,27 @@ BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) ta
 ## BPMN'nin Amacı 
 BPMN'nin temel çalışma prensipi, iş süreçlerinin başlangıcından bitiş noktasına kadar olan süreci tanımlamaktır. İş süreçleri boyunca iş analistlerinin, teknik konuların geliştirmelerini yapacak geliştiricilerin ve organizasyon içerisinde yer alan yönetim ve diğer birimlerin iş süreçlerini kolayca anlayabileceği şekilde görsel olarak modellemesini sağlamaktır. 
 
+BPMN, grafiksel öğelerden ve görsel modellemeden oluşan bir İş Süreç Diyagramı olarak tanımlanır. Temeli akış şeması tekniğine dayanmaktadır. İş Süreci Modeli ise, grafik nesneler ağını oluşturmaktadır. İş Süreç Modeli, teknik olan ya da teknik olmayan diyagramların kolayca değiştirilmesini ve geliştirilmesini sağlamaktadır. BPMN ayrıca, yürütülebilir BPEL4WS oluşturmayı mümkün kılacak bir dahili modelleme tarafından desteklenebilir.
+
+
+
+
+
+
+
+
+Öğeler, birbirinden ayırt edilebilir olacak şekilde seçilmiş ve çoğu modelleyici için tanıdık olan şekillerden yararlanmaktadır.
+BPMN ayrıca, yürütülebilir BPEL4WS oluşturmayı mümkün kılacak bir dahili modelleme tarafından desteklenebilir. Bu şekilde, BPMN iş süreci tasarımı ile süreç uygulaması arasındaki standardize bir köprü oluşturur. Bu nedenle, BPMN üç farklı düzeyde uygulanabilir:
+
+Açıklayıcı Süreç Modelleri - Yüksek seviyeli modelleme için uygun - akış şemalarını kullanan analistler için rahat olmalıdır.
+Analitik Süreç Modelleri - BPMN eğitiminde en sık kullanılan ve kapsanan kavramları içerir.
+Yaygın Yürütülebilir Süreç Modelleri - Yürütülebilir süreç modelleri için gereken öğelere odaklanır.
+
+
+
+
+
+
 
 ## Business Process Model and Notation (BPMN) Faydaları
 BPMN, İş Süreç Modelleme Notasyonu, iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. Bu sayede, BPMN ile iş sahipleri, iş analistleri, geliştiriciler gibi şirketin birçok biriminin yararlanacağı bir modelleme ortaya çıkar. 
