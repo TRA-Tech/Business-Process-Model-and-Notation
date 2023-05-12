@@ -108,6 +108,9 @@ BPMN, karmaşık iş süreçlerinin baştan sonuna kadar nasıl bir vizyonda ile
 
 BPMN diyagramlarında teknik olan ya da teknik olmayan çeşitli hedefler ve farklı ana katılımcı kitleleriyle iletişim kurmak gerekir. BPMN alt modelleri, farklı katılımcıların diyagramın bölümlerini kolayca ayırt etmesini ve katılımcıların kendilerine uygun bölümleri bulmasını sağlamaktadır. 
 
+![business-process-diagram-with-lanes-8364](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/fafefbe8-a260-490f-8386-017a551dc1bd)
+
+
 BPMN alt model türleri üçe ayrılır: 
 
 **Özel İş Süreçleri** 
