@@ -52,6 +52,11 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 - Koşullara ve olaylara bağlı olarak yolun düzenlenebileceği karar noktalarıdır. Elmas şeklinde gösterilirler. 
 
 ![efc2969c-a156-4f2a-89b5-de963a785cbd](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/bfeecb15-112a-4bdc-9e01-7540d302fb4d)
+- İş sürecinde, yapılacak iş ve çıktı, farklı iç ya da dış koşullara bağlı değişebilmektedir. Gateway, koşulların değerlendirildiği ve kararın verildiği yerdir. 
+
+Gateway Türleri:
+- Veri Tabanlı Özel Gateway (Exclusive Gateway), verilen süreç verilerine dayalı olarak iş akışını kontrol etmek için kullanılır. Gateway'den bağlanan her çıkış akışı bir koşula karşılık gelir. Sadece koşulu karşılayan bir akış akış takip edilebilir. 
+
 
 ### Bağlantı Nesneleri (Connecting Objects)
 Bağlantı nesneleri, akış elemanlarını birbirine bağlayan mesaj akışı, sıralama akışı gibi sembolleri ifade etmektedir. Dört çeşit bağlantı nesnesi bulunmaktadır: Sekans Akışları (Sequence Flow), Mesaj Akışları (Message Flow), İlişkilendirilmeler (Associations), Veri İlişkileri (Data Associations). 
