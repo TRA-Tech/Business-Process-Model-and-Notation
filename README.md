@@ -36,6 +36,11 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 
 ![9fedf54f-ccf1-469e-acd6-546675816a73](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/14b62d02-c9ca-4bc9-94da-b91a69dc78b0)
 
+- Olaylar hem harici hem dahili olabilmektedir. İş sürecine etkileşim katabileceği sürece, olaylar modellenebilmektedir. Bazı olay tetikleyicilerinde, olay türünün belirtilmesi için daireler içi simgeler bulunmaktadır. 
+- Olay üç türe ayrılmaktadır: *Başlangıç Olayı*, *Ara Olay* ve *Bitiş Olayı*. 
+- Her sürecin başlangıç olayına sahip olması gerekir, bu sayede iş süreç başlangıcı belirlenmiş olabilir. Bitiş olayı ise bir iş sürecin tamamlandığı yeri belirtmektedir. 
+- Ara Olaylar, belirtilen olaya dayalı iş sürecinin akışını şekillendirmektedir. Ara olaylar, bir etkinlikle ilişkilendirilmekte ve etkinlik sırasında gerçekleşecek olayları şemalaştırmak için kullanılmaktadır ve bağlantı nesnesiyle bağlanabilir. 
+
 **Aktiviteler (Activity)**
 - İş sürecindeki etkileşimleri temsil eder. Örneğin, görev ve yapılan işlemler.
 - Bir kişi ya da sistem tarafından yapılan görevleri belirtir. Kenarları yuvarlak dikdörtgenle gösterilir. Alt iş süreçleri, telafiler gibi ek aktivitelerle daha detaylı hale getirilir. 
