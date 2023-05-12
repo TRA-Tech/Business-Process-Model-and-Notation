@@ -29,7 +29,6 @@ BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik 
 
 ![business-process-diagram-with-lanes-8364](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/e3e43f9e-b010-4e0f-8278-93bb0b0dbf10)
 
-
 ### Akış Elemanları (Flow Elements)
 Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir. Üç çeşit akış elemanı bulunmaktadır: *Olay* (Event), *Aktivite* (Activity) ve *Geçit* (Gateaways). 
 
@@ -58,7 +57,10 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 - İş sürecinde, yapılacak iş ve çıktı, farklı iç ya da dış koşullara bağlı değişebilmektedir. Gateway, koşulların değerlendirildiği ve kararın verildiği yerdir. 
 
 Gateway Türleri:
-- Veri Tabanlı Özel Gateway (Exclusive Gateway), verilen süreç verilerine dayalı olarak iş akışını kontrol etmek için kullanılır. Gateway'den bağlanan her çıkış akışı bir koşula karşılık gelir. Sadece koşulu karşılayan bir akış akış takip edilebilir. 
+- **Veri Tabanlı Özel Gateway (Exclusive Gateway)**, verilen süreç verilerine dayalı olarak iş akışını kontrol etmek için kullanılır. Gateway'den bağlanan her çıkış akışı bir koşula karşılık gelir. Sadece koşulu karşılayan bir akış akış takip edilebilir. 
+- **İçeriksel Gateway**, paralel geçiş yolları oluşturmak için kullanılmaktadır. Tüm akışların çıkış koşulları değerlendirilmektedir. Birden fazla koşul sağlandığında birden fazla akışın yürülmesine yol açmaktadır. 
+- **Paralel Gateway**, paralel koşulları görsel modelleme için kullanılır. Tüm çıkış akışları aynı anda yürütülmektedir. 
+- **Olaya Dayalı Gateway**, olaylara dayalı alternatif yolları görsel modelleme için kullanılmaktadır. Süreç sonucunda gelen *Evet* ya da *Hayır* yanıtıyla beraber, bu yanıtlara bağlı olarak izlenecek yol belirlenir. Evet/Hayır yanıtına istinaden iki bağlantılı ara olayla takibi sağlanır. Tetiklenen olay bağlamında, o olayın akışı dikkate alınır. Dikkate alınmayan olaylar ve akışlar geçerliliğini kaybeder. 
 
 
 ### Bağlantı Nesneleri (Connecting Objects)
