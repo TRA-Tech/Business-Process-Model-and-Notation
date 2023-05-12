@@ -114,7 +114,6 @@ BPMN diyagramlarında teknik olan ya da teknik olmayan çeşitli hedefler ve far
 ![bpmn-js](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/4bec3bdd-f538-4195-82cb-5315238a7a2e)
 
 
-
 BPMN alt model türleri üçe ayrılır: 
 
 **Özel İş Süreçleri** 
@@ -127,6 +126,8 @@ BPMN alt model türleri üçe ayrılır:
 - İki veya daha fazla iş birimi arasındaki etkileşimleri belirtmektedir. 
 
 ## BPMN'de Bulunan Diyagram Türleri 
+
+![example](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/bd8cec94-e7ae-4245-b6b7-3985f8d8468d)
 
 **Koregrafi Diyagramı** 
 - İki veya daha fazla katılımcı arasındaki etkileşimleri ifade etmektedir. Alt koreografilerle genişletilmektedir. 
