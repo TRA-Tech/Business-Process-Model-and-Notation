@@ -182,12 +182,15 @@ BPMN alt model türleri üçe ayrılır:
 BPMN ile iş süreçlerinizi daha etkin yönetmek için aşağıdaki siteleri ziyaret edebilirsiniz. 
 
 - **LUCIDCHART**
+
 https://www.lucidchart.com/pages/bpmn
 
 - **CAMUNDA** 
+
 https://camunda.com/bpmn/
 
 - **BPMN IO**
+
 https://bpmn.io/
 
 
