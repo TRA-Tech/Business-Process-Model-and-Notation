@@ -71,10 +71,16 @@ Bağlantı nesneleri, akış elemanlarını birbirine bağlayan mesaj akışı, 
 **Sekans (Sıra) Akışları (Sequence Flow)**
 - İş sürecinde bağlantılı noktaları temsil eder. Örneğin, bulunduğunuz noktayla bir sonraki noktanın nasıl bağlandığı. 
 - Yapılacak aktivitelerin sırasını belirtirler. Düz ok şeklinde gösterilirler. 
+- Aynı havuz içerisinde yer alan akış öğelerini birbirine bağlamak için sıra akışı kullanılabilir. 
 
 **Mesaj Akışları (Message Flows)**
 - Farklı havuzlar arasındaki mesajların nasıl taşındığını temsil eder.
 - Bölümler ve departmanlar arasındaki mesaj akışını belirtirler. Olaylara veya aktivitelere bağlanmamalıdır. Ucu daire kesik çizgili ok ile gösterilmektedir.
+
+
+Mesaj Akışları
+BPMN'de, havuzlar arasındaki iletişim mesaj kullanılarak gerçekleştirilir. Mesaj akışı, havuzlar veya havuzlar arasında bulunan akış öğeleri arasında mesaj akışını göstermek için kullanılır. Mesaj akışı, noktalı bir çizgi şeklinde ve ok başlığıyla gösterilir. Havuzlar arasında akışı olan bazı örnek mesajlar: faks, telefon, e-posta, mektup, bildirim, komut.
+Sadece aynı havuzdaki akış öğelerini birbirine bağlamak için sıra akışını kullanabilirsiniz: ya aynı havuz/sıra içindeki öğeler arasında ya da aynı havuzdaki farklı sıralar arasında. Öğeleri havuzlar arasında bağlamak isterseniz, sıra akışını değil, mesaj akışını kullanmanız gerekir.
 
 **İlişkilendirmeler (Associations)**
 - Bir akış nesnesi ile bir veri nesnesi arasındaki bağlantıyı temsil eder. 
