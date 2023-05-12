@@ -12,23 +12,10 @@ BPMN'nin temel çalışma prensipi, iş süreçlerinin başlangıcından bitiş 
 
 BPMN, grafiksel öğelerden ve görsel modellemeden oluşan bir İş Süreç Diyagramı olarak tanımlanır. Temeli akış şeması tekniğine dayanmaktadır. İş Süreci Modeli ise, grafik nesneler ağını oluşturmaktadır. İş Süreç Modeli, teknik olan ya da teknik olmayan diyagramların kolayca değiştirilmesini ve geliştirilmesini sağlamaktadır. BPMN ayrıca, yürütülebilir BPEL4WS oluşturmayı mümkün kılacak bir dahili modelleme tarafından desteklenebilir.
 
-
-
-
-
-
-
-
-Öğeler, birbirinden ayırt edilebilir olacak şekilde seçilmiş ve çoğu modelleyici için tanıdık olan şekillerden yararlanmaktadır.
-BPMN ayrıca, yürütülebilir BPEL4WS oluşturmayı mümkün kılacak bir dahili modelleme tarafından desteklenebilir. Bu şekilde, BPMN iş süreci tasarımı ile süreç uygulaması arasındaki standardize bir köprü oluşturur. Bu nedenle, BPMN üç farklı düzeyde uygulanabilir:
-
-Açıklayıcı Süreç Modelleri - Yüksek seviyeli modelleme için uygun - akış şemalarını kullanan analistler için rahat olmalıdır.
-Analitik Süreç Modelleri - BPMN eğitiminde en sık kullanılan ve kapsanan kavramları içerir.
-Yaygın Yürütülebilir Süreç Modelleri - Yürütülebilir süreç modelleri için gereken öğelere odaklanır.
-
-
-
-
+BPMN üç farklı düzeyde uygulanabilir;
+- **Açıklayıcı Süreç Modelleri**, yüksek seviyeli modelleme için uygundur. 
+- **Analitik Süreç Modelleri**, iş süreçlerinde en sık kullanılan ve kapsamlı kavramları içermektedir.
+- **Yaygın Yürütülebilir Süreç Modelleri**, yürütülebilir süreç modelleri için gereken öğelere odaklanmaktadır. 
 
 
 
