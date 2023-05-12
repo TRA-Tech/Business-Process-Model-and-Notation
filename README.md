@@ -1,7 +1,7 @@
 # Business Process Model and Notation (BPMN)
 *İş Süreç Modelleme Notasyonu*, organizasyonların iş süreçlerini yönetmek ve modellemek amacıyla tasarlanan iş akış şemasıdır. Şirketlerde bulunan birçok birimin faydalanabileceği bir iş sürecinin başlangıç aşamasından son aşamasına kadar belirlendiği görsel modelleme dili kullanılmış akış şemalardır. BPMN, bir işlemi tamamlamak için gerekli faaliyetlerin ve bilgi akışının şema haline getirerek detaylandırılmasını sağlar. 
 
-![cfe17b36-8a3a-467a-8260-c44b4bf89b6e](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/04a2a71e-ebfc-49fb-af2a-cd3a8e9421e6)
+[cfe17b36-8a3a-467a-8260-c44b4bf89b6e](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/04a2a71e-ebfc-49fb-af2a-cd3a8e9421e6)
 
 
 BPMN, iş akış sürecinin her bir aşamasının adım adım detaylandırılmasını sağlayarak belli bir sıralamayla ilerlenmesini sağlar. BPMN’ın amacı; rekabet avantajlarını arttırmak, iş akışında yeni ya da beklenmedik durumları gözlemleyebilmek için modeller oluşturmaktadır. 
