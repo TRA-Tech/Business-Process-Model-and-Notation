@@ -105,9 +105,13 @@ Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve 
 - Havuzların içerisinde kendi flow elementleri bulunmaktadır. Havuz flow elementleri, iş süreci boyunca havuzun yapması gereken işleri ifade etmektedir. Flow elementleri bulunmayan havuz türü de yer almaktadır. Bu tür havuz türüne *blackbox pool* denmektedir. Bu tür havuzlar, iş sürecinin dışındaki varlıkları temsil etmektedir. 
 
 > Havuz örneği 
+
 ![lyNXJ](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/ea8334c8-3bc8-4fbc-9310-bf74d22e5efd)
 
+
 > Blackbox Pool Örneği
+
+
 ![bpmn-choreography-blackbox-pools](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/7c0a1196-4d22-48c7-bdbd-d508acae0ed2)
 
 
