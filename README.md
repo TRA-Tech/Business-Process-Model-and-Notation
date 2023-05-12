@@ -27,6 +27,9 @@ BPMN, işletmelere iş süreçlerini anlama, belgeleme, iletişim kurma ve anali
 ## Business Process Model and Notation Nasıl Çalışır? 
 BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. BPMN, iş süreçlerini modelleme dili dört kategoriye ayrılmaktadır: 
 
+![business-process-diagram-with-lanes-8364](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/e3e43f9e-b010-4e0f-8278-93bb0b0dbf10)
+
+
 ### Akış Elemanları (Flow Elements)
 Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir. Üç çeşit akış elemanı bulunmaktadır: *Olay* (Event), *Aktivite* (Activity) ve *Geçit* (Gateaways). 
 
