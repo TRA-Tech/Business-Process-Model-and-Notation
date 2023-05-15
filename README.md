@@ -1,8 +1,7 @@
 # Business Process Model and Notation (BPMN)
 *İş Süreç Modelleme Notasyonu*, organizasyonların iş süreçlerini yönetmek ve modellemek amacıyla tasarlanan iş akış şemasıdır. Şirketlerde bulunan birçok birimin faydalanabileceği bir iş sürecinin başlangıç aşamasından son aşamasına kadar belirlendiği görsel modelleme dili kullanılmış akış şemalardır. BPMN, bir işlemi tamamlamak için gerekli faaliyetlerin ve bilgi akışının şema haline getirerek detaylandırılmasını sağlar. 
 
-[cfe17b36-8a3a-467a-8260-c44b4bf89b6e](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/04a2a71e-ebfc-49fb-af2a-cd3a8e9421e6)
-
+![cfe17b36-8a3a-467a-8260-c44b4bf89b6e](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/f3c9ed2f-e1ba-4566-bb8a-4942958e295d)
 
 BPMN, iş akış sürecinin her bir aşamasının adım adım detaylandırılmasını sağlayarak belli bir sıralamayla ilerlenmesini sağlar. BPMN’ın amacı; rekabet avantajlarını arttırmak, iş akışında yeni ya da beklenmedik durumları gözlemleyebilmek için modeller oluşturmaktadır. 
 BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) tarafından yayınlanmıştır. 2005 yılından BPMI ve BPMN organizasyonlarının birleşmesi ardından süreçler OMG (The Object Management Group) tarafından yönetilmeye başlamıştır. 2006 yılında OMG, BPMN Spesifikasyonu belgesi yayınladı. 2010 yılında BPMN 2.0 sürümü geliştirildi ardından 2013 yılında Aralık ayında yeni bir spesifikasyon sürüm yayınlandı. ISO tarafından resmi olarak yayınlanan BPMN 2.0.2 en son sürümüdür: *ISO/IEC 19510*
@@ -10,7 +9,7 @@ BPMN ilk olarak 2004 yılından Business Process Management Initiative (BPMI) ta
 ## BPMN'nin Amacı 
 BPMN'nin temel çalışma prensipi, iş süreçlerinin başlangıcından bitiş noktasına kadar olan süreci tanımlamaktır. İş süreçleri boyunca iş analistlerinin, teknik konuların geliştirmelerini yapacak geliştiricilerin ve organizasyon içerisinde yer alan yönetim ve diğer birimlerin iş süreçlerini kolayca anlayabileceği şekilde görsel olarak modellemesini sağlamaktır. 
 
-![63770362597fdb4f6f9599d9_628815fed53df327bc485a8e_featured-image_business-process-model-diagram-min](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/abfa073f-19fc-49f8-8edf-908f84c2924b)
+![business-process-diagram-with-lanes-8364](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/256a55eb-f51a-4f35-ac38-e57875aee46f)
 
 
 BPMN, grafiksel öğelerden ve görsel modellemeden oluşan bir İş Süreç Diyagramı olarak tanımlanır. Temeli akış şeması tekniğine dayanmaktadır. İş Süreci Modeli ise, grafik nesneler ağını oluşturmaktadır. İş Süreç Modeli, teknik olan ya da teknik olmayan diyagramların kolayca değiştirilmesini ve geliştirilmesini sağlamaktadır. BPMN ayrıca, yürütülebilir BPEL4WS oluşturmayı mümkün kılacak bir dahili modelleme tarafından desteklenebilir.
@@ -20,13 +19,11 @@ BPMN üç farklı düzeyde uygulanabilir;
 - **Analitik Süreç Modelleri**, iş süreçlerinde en sık kullanılan ve kapsamlı kavramları içermektedir.
 - **Yaygın Yürütülebilir Süreç Modelleri**, yürütülebilir süreç modelleri için gereken öğelere odaklanmaktadır. 
 
-
-
 ## Business Process Model and Notation (BPMN) Faydaları
 BPMN, İş Süreç Modelleme Notasyonu, iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. Bu sayede, BPMN ile iş sahipleri, iş analistleri, geliştiriciler gibi şirketin birçok biriminin yararlanacağı bir modelleme ortaya çıkar. 
 Paydaşların da dahil edildiği bu süreçte, tespit edilen sorunların etkili ve efektif bir şekilde yanıt verilebilir ve öngörülen ya da öngörülmeyen her sorun karşısında modelleme şeması iş akışının aksamamasını sağlar. Kapsamlı ve bilgi bakımından zengin notasyonlar sebebiyle, teknik bir bilgi eksikliği olan ya da olmayan tüm paydaşlar iş akış sürecini kolayca anlayabilir. 
 
-![BPMN-2](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/c2f49e2f-b61a-429d-9523-528f35e495c2)
+![63770362597fdb4f6f9599d9_628815fed53df327bc485a8e_featured-image_business-process-model-diagram-min](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/c9ff818c-aa86-4d77-a49d-6f80636ddf51)
 
 Bu kapsamda iş sürecinin şirketler ve organizasyonlar bakımından birçok faydası bulunmaktadır: 
 
@@ -42,7 +39,8 @@ BPMN, işletmelere iş süreçlerini anlama, belgeleme, iletişim kurma ve anali
 ## Business Process Model and Notation Nasıl Çalışır? 
 BPMN, İş Süreç Modelleme Notasyonu; iş süreçlerini anlaşılır, dinamik ve tutarlı bir şekilde şemalaştırma imkânı sağlar. BPMN, iş süreçlerini modelleme dili dört kategoriye ayrılmaktadır: 
 
-![business-process-diagram-with-lanes-8364](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/e3e43f9e-b010-4e0f-8278-93bb0b0dbf10)
+![bpmn-js](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/e77e593c-5054-489c-b8ba-7adcd41704f4)
+
 
 ### Akış Elemanları (Flow Elements)
 Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir. Üç çeşit akış elemanı bulunmaktadır: *Olay* (Event), *Aktivite* (Activity) ve *Geçit* (Gateaways). 
@@ -51,7 +49,7 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 - İş sürecindeki olayları temsil eder. Örneğin, başlangıç ve bitiş noktaları. 
 - Olaylar; genel anlamda bir süreci başlatan, sürdüren ve tamamlayan tetikleyicilerdir. Olay türleri arasında mesaj türleri, hata uyarıları, sinyal, iptaller gibi birçok bağlantı yer alır. Olay tiplerine göre diğer sembolleri içeren dairelerle gösterilmektedir.
 
-![9fedf54f-ccf1-469e-acd6-546675816a73](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/14b62d02-c9ca-4bc9-94da-b91a69dc78b0)
+![events](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/6a9fec24-5fad-4766-9438-d720d454f05c)
 
 - Olaylar hem harici hem dahili olabilmektedir. İş sürecine etkileşim katabileceği sürece, olaylar modellenebilmektedir. Bazı olay tetikleyicilerinde, olay türünün belirtilmesi için daireler içi simgeler bulunmaktadır. 
 - Olay üç türe ayrılmaktadır: *Başlangıç Olayı*, *Ara Olay* ve *Bitiş Olayı*. 
@@ -62,13 +60,9 @@ Akış elemanları, iş süreçlerinde bağlantı noktalarını ifade etmektedir
 - İş sürecindeki etkileşimleri temsil eder. Örneğin, görev ve yapılan işlemler.
 - Bir kişi ya da sistem tarafından yapılan görevleri belirtir. Kenarları yuvarlak dikdörtgenle gösterilir. Alt iş süreçleri, telafiler gibi ek aktivitelerle daha detaylı hale getirilir. 
 
-![5280decc-8129-49be-a01a-4aa7f4c25fd9](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/cca07e43-fd5e-40fd-8f0e-f7c2bbd8a6c3)
-
 **Geçit (Gateaways)** 
 - İş sürecindeki farklı yol ve yöntemleri temsil eder. Örneğin, bir seçim ya da birleştirme noktaları. 
 - Koşullara ve olaylara bağlı olarak yolun düzenlenebileceği karar noktalarıdır. Elmas şeklinde gösterilirler. 
-
-![efc2969c-a156-4f2a-89b5-de963a785cbd](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/bfeecb15-112a-4bdc-9e01-7540d302fb4d)
 - İş sürecinde, yapılacak iş ve çıktı, farklı iç ya da dış koşullara bağlı değişebilmektedir. Gateway, koşulların değerlendirildiği ve kararın verildiği yerdir. 
 
 Gateway Türleri:
@@ -81,7 +75,7 @@ Gateway Türleri:
 ### Bağlantı Nesneleri (Connecting Objects)
 Bağlantı nesneleri, akış elemanlarını birbirine bağlayan mesaj akışı, sıralama akışı gibi sembolleri ifade etmektedir. Dört çeşit bağlantı nesnesi bulunmaktadır: Sekans Akışları (Sequence Flow), Mesaj Akışları (Message Flow), İlişkilendirilmeler (Associations), Veri İlişkileri (Data Associations). 
 
-![flows-1024x563](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/f7c9e25f-0b64-40e0-8867-21b5eb00f896)
+![sekans](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/2ef39656-e18e-4d31-b1ee-3c834ba3bf97)
 
 **Sekans (Sıra) Akışları (Sequence Flow)**
 - İş sürecinde bağlantılı noktaları temsil eder. Örneğin, bulunduğunuz noktayla bir sonraki noktanın nasıl bağlandığı. 
@@ -109,15 +103,12 @@ Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve 
 
 > Havuz örneği 
 
-![lyNXJ](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/ea8334c8-3bc8-4fbc-9310-bf74d22e5efd)
+![pool](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/fda0e3bf-0a96-473e-980e-81036ef8c7fa)
 
 
 > Blackbox Pool Örneği
 
-
-![bpmn-choreography-blackbox-pools](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/7c0a1196-4d22-48c7-bdbd-d508acae0ed2)
-
-
+![bpmn-choreography-blackbox-pools](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/6620cfa1-2aa9-4c09-8476-63e1dc0e996c)
 
 
 **Şerit (Lane)**
@@ -128,7 +119,7 @@ Kulvarlar, iş sürecinde yer alan katılımcıları ifade etmektedir. Havuz ve 
 Artifacts, iş sürecinde geliştiricilerin ayrıntılı olarak verdiği ek bilgileri ifade etmektedir. 
 Üç çeşidi bulunmaktadır: Veri Nesneleri (Data Objects), Grup (Group) ve Açıklama (Annotation).
 
-![bpmn-artifacts-symbol](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/4acd08f0-e8ab-447e-9443-8a2b805bbd07)
+![bpmn-artifacts-symbol](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/7a85ab50-c278-45dc-8883-3d7f9836423d)
 
 **Veri Nesnesi (Data Objects)**
 - Bir aktivite ve akış sürecinde hangi verilerin gerektiğini ifade eder. 
@@ -144,7 +135,7 @@ BPMN, karmaşık iş süreçlerinin baştan sonuna kadar nasıl bir vizyonda ile
 
 BPMN diyagramlarında teknik olan ya da teknik olmayan çeşitli hedefler ve farklı ana katılımcı kitleleriyle iletişim kurmak gerekir. BPMN alt modelleri, farklı katılımcıların diyagramın bölümlerini kolayca ayırt etmesini ve katılımcıların kendilerine uygun bölümleri bulmasını sağlamaktadır. 
 
-![bpmn-js](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/4bec3bdd-f538-4195-82cb-5315238a7a2e)
+![BPMN-AProcessWithNormalFlow svg](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/264f63e0-1df3-4b12-80d6-c484c574aaae)
 
 BPMN alt model türleri üçe ayrılır: 
 
@@ -159,7 +150,8 @@ BPMN alt model türleri üçe ayrılır:
 
 ## BPMN'de Bulunan Diyagram Türleri 
 
-![example](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/bd8cec94-e7ae-4245-b6b7-3985f8d8468d)
+![Example-IoT-process-1-modelled-in-BPMN20](https://github.com/TRA-Tech/Business-Process-Model-and-Notation/assets/123966022/a6c8ed94-4cf5-4987-b4aa-517e6e26a0f7)
+
 
 **Koregrafi Diyagramı** 
 - İki veya daha fazla katılımcı arasındaki etkileşimleri ifade etmektedir. Alt koreografilerle genişletilmektedir. 
